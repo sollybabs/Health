@@ -152,9 +152,16 @@ body {
       display: block;
       text-align: left;
     }
-     .secondary_image {
+     .primary_image {
       display: none;
     } 
-    
+    .designer {
+        font-size: .5em;
+        font-family: bold;
+    }
+    .heading {
+        font-size: 1em;
+        font-family: bold;
+    }
   
 }
