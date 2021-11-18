@@ -172,7 +172,7 @@ body {
     .foot {
         font-size: 2rem;
         font-family: bold;
-        justify-content: center;
+        text-align: center;
     }
   
 }
