@@ -169,5 +169,10 @@ body {
     .secondary_images {
         display: inline-block;
     }
+    .foot {
+        font-size: 2rem;
+        font-family: bold;
+        justify-content: center;
+    }
   
 }
