@@ -170,10 +170,8 @@ body {
         display: inline-block;
     }
     .foot {
-        font-size: 2rem;
-        font-family: bold;
-        text-align: center;
-        display: flex;
+        margin-left: 2rem;
+        padding: 1rem;
     }
   
 }
