@@ -170,6 +170,7 @@ body {
         display: inline-block;
     }
     .foot {
+        font-size: 2rem;
         margin-left: 8rem;
         padding: 4rem;
     }
