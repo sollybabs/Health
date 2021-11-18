@@ -156,14 +156,14 @@ body {
       display: none;
     } 
     .designer {
-        font-size: .5vw;
+        font-size: 1rem;
         font-family: bold;
-        display: block;
+        display: flex;
     }
     .heading {
-        font-size: 1vw;
+        font-size: 2rem;
         font-family: bold;
-        display: block;
+        display: flex;
     }
   
 }
