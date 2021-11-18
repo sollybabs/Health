@@ -167,7 +167,7 @@ body {
     }
 
     .secondary_images {
-        display: inline-flex;
+        display: inline-block;
     }
   
 }
