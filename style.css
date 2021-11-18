@@ -7,14 +7,14 @@ body {
 
 .designer{
     display: block;
-    font-size: 2rem;
+    font-size: 2vw;
     font-weight: 400;
     font-family: bold;
 }
 
 .heading {
     display: block;
-    font-size: 3rem;
+    font-size: 3vw;
     font-weight: bold;
 }
 
@@ -156,12 +156,14 @@ body {
       display: none;
     } 
     .designer {
-        font-size: .5rem;
+        font-size: .5vw;
         font-family: bold;
+        display: block;
     }
     .heading {
-        font-size: 1rem;
+        font-size: 1vw;
         font-family: bold;
+        display: block;
     }
   
 }
